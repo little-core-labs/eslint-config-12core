@@ -1,0 +1,31 @@
+{
+  "name": "@little-core-labs/eslint-config-12core",
+  "version": "0.0.0",
+  "description": "12Core Shareable eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/12core-lint.git"
+  },
+  "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/little-core-labs/12core-lint/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/12core-lint#readme",
+  "dependencies": {
+    "eslint-config-standard": "^14.1.1",
+    "eslint-config-standard-jsx": "^8.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=6.2.2"
+  }
+}
