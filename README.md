@@ -65,6 +65,8 @@ npm i @little-core-labs/eslint-config-12core eslint babel-eslint eslint-config-s
 
 ### Create eslint config
 
+Create a `.eslintrc.json` with the following.
+
 ```json
 {
   "parser": "babel-eslint",
