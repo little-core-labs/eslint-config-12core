@@ -1,6 +1,6 @@
 {
   "name": "@little-core-labs/eslint-config-12core",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "12Core Shareable eslint config",
   "main": "index.js",
   "scripts": {
