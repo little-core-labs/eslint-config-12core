@@ -1,4 +1,5 @@
 # eslint-config-12core
+![Node.js CI](https://github.com/little-core-labs/eslint-config-12core/workflows/Node.js%20CI/badge.svg)
 
 A shareable [eslint](ghub.io/eslint) config for 12core projects.
 

@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/little-core-labs/12core-lint.git"
+    "url": "git+https://github.com/little-core-labs/eslint-config-12core.git"
   },
   "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/little-core-labs/12core-lint/issues"
+    "url": "https://github.com/little-core-labs/eslint-config-12core/issues"
   },
-  "homepage": "https://github.com/little-core-labs/12core-lint#readme",
+  "homepage": "https://github.com/little-core-labs/eslint-config-12core#readme",
   "dependencies": {
     "eslint-config-standard": "^14.1.1",
     "eslint-config-standard-jsx": "^8.1.0",
