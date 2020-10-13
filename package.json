@@ -4,7 +4,7 @@
   "description": "12Core Shareable eslint config",
   "main": "index.js",
   "scripts": {
-    "prepublishOnly": "git push --follow-tags && gh-releas -y",
+    "prepublishOnly": "git push --follow-tags && gh-release -y",
     "test": "run-s test:*",
     "test:lint": "eslint index.js",
     "version": "auto-changelog -p --template keepachangelog auto-changelog --breaking-pattern 'BREAKING CHANGE:' && git add CHANGELOG.md",
