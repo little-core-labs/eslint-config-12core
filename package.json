@@ -23,7 +23,7 @@
   "homepage": "https://github.com/little-core-labs/eslint-config-12core#readme",
   "dependencies": {
     "eslint-config-standard": "^15.0.0",
-    "eslint-config-standard-jsx": "^9.0.0",
+    "eslint-config-standard-jsx": "^10.0.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
