@@ -6,12 +6,21 @@
     "padded-blocks": 0,
     "import/extensions": [
       "error",
-      "never",
+      "ignorePackages",
       {
-        "json": "ignorePackages",
-        "css": "ignorePackages",
-        "jsx": "never"
+        "js": "never",
+        "mjs": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
       }
     ]
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".mjs", ".cjs", ".ts", ".tsx"]
+      }
+    }
   }
 }
