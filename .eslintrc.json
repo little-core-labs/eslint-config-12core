@@ -3,6 +3,14 @@
   "rules": {
     "yoda": 1,
     "no-void": 0,
-    "padded-blocks": 0
+    "padded-blocks": 0,
+    "import/extensions": [
+      "error",
+      "never",
+      {
+        "json": "ignorePackages",
+        "css": "ignorePackages"
+      }
+    ]
   }
 }
