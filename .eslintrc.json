@@ -9,7 +9,8 @@
       "never",
       {
         "json": "ignorePackages",
-        "css": "ignorePackages"
+        "css": "ignorePackages",
+        "jsx": "never"
       }
     ]
   }
