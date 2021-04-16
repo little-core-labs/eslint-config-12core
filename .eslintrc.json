@@ -3,18 +3,7 @@
   "rules": {
     "yoda": 1,
     "no-void": 0,
-    "padded-blocks": 0,
-    "import/extensions": [
-      "error",
-      "ignorePackages",
-      {
-        "js": "never",
-        "mjs": "never",
-        "jsx": "never",
-        "ts": "never",
-        "tsx": "never"
-      }
-    ]
+    "padded-blocks": 0
   },
   "settings": {
     "import/resolver": {
