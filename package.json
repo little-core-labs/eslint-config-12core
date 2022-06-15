@@ -33,7 +33,7 @@
     "auto-changelog": "^2.0.0",
     "eslint": "^7.12.1",
     "gh-release": "^6.0.0",
-    "npm-run-all2": "^5.0.0"
+    "npm-run-all2": "^6.0.1"
   },
   "peerDependencies": {
     "eslint": ">=6.2.2"
